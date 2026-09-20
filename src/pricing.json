@@ -1,0 +1,54 @@
+{
+  "pricing": [
+    {
+      "id": "1",
+      "type": "Entry",
+      "title": "Ration Start",
+      "amount": "N2,000",
+      "subtext": "Secure communication foundation",
+      "subtextList": [
+        "Mail (25GB per user)",
+        "Calendar",
+        "Basic Chat",
+        "Mobile + Desktop apps",
+        "MFA/Identity"
+      ],
+      "extras": ["Rooms (video/audio)", "Drive / Notes / Workflows"],
+      "button": "Start with collaboration"
+    },
+    {
+      "id": "2",
+      "type": "Revenue Engine",
+      "title": "Ration Do",
+      "amount": "N4,000",
+      "subtext": "Where teams actually work together",
+      "subtextList": [
+        "Everything in Start, plus:",
+        "Rooms (video/audio meetings)",
+        "Full Chat + Channels",
+        "Drive & File Sharing",
+        "Notes / Wiki",
+        "Workflow / Approvals"
+      ],
+      "addOns": "60-min meetings · 25 participants · Fair usage limits apply",
+      "button": "Do the work"
+    },
+    {
+      "id": "3",
+      "type": "Enterprise",
+      "title": "Ration Scale",
+      "amount": "N6,000",
+      "subtext": "Control, compliance, scale",
+      "subtextList": [
+        "Everything in Do, plus:",
+        "Audit logs",
+        "Compliance controls",
+        "Policy enforcement",
+        "Priority support",
+        "Higher usage limits"
+      ],
+      "addOns": "120-min meetings · 50 participants · higher concurrency",
+      "button": "Scale with confidence"
+    }
+  ]
+}
