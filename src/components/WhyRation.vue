@@ -1,9 +1,9 @@
 <script setup>
-import { reactive } from "vue";
-import WhyRationCard from "./WhyRationCard.vue";
+import { shallowRef } from "vue";
+import WhyRationCard from "@/components/WhyRationCard.vue";
 import { CreditCard, FaceSmile, Headphones, Server } from "@primeicons/vue";
 
-const cardItems = reactive([
+const cardItems = shallowRef([
   {
     id: 1,
     img: FaceSmile,
@@ -36,7 +36,7 @@ const cardItems = reactive([
 </script>
 
 <template>
-  <div class="bg-white flex justify-center items-center gap-4 py-24">
+  <div class="bg-white flex flex-col lg:flex-row ld:justify-center lg:items-center gap-4 px-10 py-24">
     <div class="w-full max-w-md flex flex-col gap-6 px-2">
       <div class="flex flex-col gap-1">
         <p class="text-sm text-[#069] font-medium">Why Choose Ration</p>

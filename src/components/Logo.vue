@@ -1,9 +1,7 @@
-<script setup></script>
-
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="120"
+    width="60"
     height="34"
     viewBox="0 0 120 34"
     fill="none"

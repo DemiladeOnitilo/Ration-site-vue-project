@@ -1,0 +1,24 @@
+{
+    "faqs": [
+        {
+            "id": "1",
+            "title": "How secure is Ration?",
+            "subText": "Security is our top priority. Ration employs robust security measures to protect your data, including encryption, authentication, and regular security audits. We adhere to industry-leading standards to ensure the confidentiality, integrity, and avalability of your information."
+        },
+        {
+            "id": "2",
+            "title": "What kind of support does Ration offer?",
+            "subText": "Security is our top priority. Ration employs robust security measures to protect your data, including encryption, authentication, and regular security audits. We adhere to industry-leading standards to ensure the confidentiality, integrity, and avalability of your information."
+        },
+        {
+            "id": "3",
+            "title": "Can I control user access and permissions in Ration?",
+            "subText": "Security is our top priority. Ration employs robust security measures to protect your data, including encryption, authentication, and regular security audits. We adhere to industry-leading standards to ensure the confidentiality, integrity, and avalability of your information."
+        },
+        {
+            "id": "4",
+            "title": "Can I migrate my data from another platform to Ration?",
+            "subText": "Security is our top priority. Ration employs robust security measures to protect your data, including encryption, authentication, and regular security audits. We adhere to industry-leading standards to ensure the confidentiality, integrity, and avalability of your information."
+        }
+    ]
+}

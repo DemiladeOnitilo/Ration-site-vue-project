@@ -1,0 +1,37 @@
+{
+  "plans": [
+    {
+      "id": "1",
+      "title": "Software-As-A-Service (SaaS) Edition",
+      "subtext": "Cloud-Based Service: Hosted and managed and maintained by our expert team",
+      "subtextList": [
+        "Cloud-Based Service: Hosted and managed by Ration's expert team",
+        "Subscription-Based: Flexible subscription plans to fit different business sizes and needs",
+        "Automatic Updates: Always have access to the latest features and security patches",
+        "Scalability: Easily scale up or down as your business needs change"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Managed Service Provider (MSP) Edition",
+      "subtext": "Host within your environmnet and extend your service offerings",
+      "subtextList": [
+        "Cloud-Based Service: Hosted and managed by Ration's expert team",
+        "Multi-Tenancy Support: Support hosting different customers within the same infrastructure",
+        "Unlimited Scaling: Vertically scale your infrastructure to handle more tenants",
+        "Premium support: Enjoy priority support from our development team to customize your platform"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Data Center (DC) On-Premise Edition",
+      "subtext": "Deploy within your Data Center for maximum control and security",
+      "subtextList": [
+        "Your Own Data Center: Deployed directly onto your hardware or IaaS",
+        "Maximum Control: Complete ownership and control over your deployment environment",
+        "Enhanced Security: Leverage your existing security protocols and measures",
+        "Customization: Tailor the deployment to fit your specific business needs"
+      ]
+    }
+  ]
+}

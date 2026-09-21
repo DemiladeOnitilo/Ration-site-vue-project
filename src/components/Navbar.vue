@@ -1,15 +1,15 @@
 <script setup>
-import Logo from "./Logo.vue";
+import Logo from "@/components/Logo.vue";
 </script>
 
 <template>
-  <nav class="absolute right-0 left-0 top-0 w-full flex justify-center items-center py-16 z-999">
+  <nav class="absolute right-0 left-0 top-0 w-full flex justify-center items-center px-20 pt-6 lg:pt-16 z-999">
     <div class="w-full max-w-7xl flex justify-between items-center">
       <div>
         <Logo />
       </div>
 
-      <div class="flex items-center gap-12 text-white">
+      <div class="flex items-center gap-4 lg:gap-12 text-white text-xs lg:text-md">
         <p class="cursor-pointer group relative pb-1">
           Home
           <span
@@ -44,7 +44,7 @@ import Logo from "./Logo.vue";
 
       <div>
         <button
-          class="bg-[#069] hover:bg-cyan-600 text-white text-sm font-medium px-6 py-2 rounded transition-colors duration-300 ease-in-out cursor-pointer"
+          class="bg-[#069] hover:bg-cyan-600 text-white text-xs lg:text-sm font-medium px-6 py-2 rounded transition-colors duration-300 ease-in-out cursor-pointer"
         >
           Get Started
         </button>

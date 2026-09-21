@@ -7,6 +7,10 @@ import { Comments } from "@primeicons/vue";
 
 <template>
   <div class="min-h-screen relative bg-[#003854] flex flex-col items-center justify-center gap-12 pt-52">
+    <div class="absolute top-[-40px] lg:top-[-190px] border-1 border-white/10 border-dashed rounded-full p-90 lg:p-180"></div>
+    <div class="absolute top-[40px] lg:top-[-30px] border-1 border-white/10 border-dashed rounded-full p-60 lg:p-120"></div>
+    <div class="absolute top-[160px] lg:top-[190px] border-1 border-white/10 border-dashed rounded-full p-30 lg:p-60"></div>
+
     <div class="flex flex-col gap-6 text-center">
       <h1 class="text-6xl text-white font-bold tracking-tight max-w-2xl">
         Communicate and Collaborate
