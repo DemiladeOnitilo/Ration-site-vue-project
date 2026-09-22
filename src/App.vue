@@ -18,7 +18,7 @@ import Footer from '@/components/Footer.vue';
     <WhyRation />
     <PricingPlans />
     <DeploymentPlan />
-    <!-- <FAQs /> -->
+    <FAQs />
     <CTA />
     <Footer />
   </div>
